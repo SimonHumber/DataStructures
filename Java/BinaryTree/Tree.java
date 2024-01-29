@@ -105,7 +105,6 @@ public class Tree {
     return output;
   }
 
-  // TODO: complete this bfs
   public String bfs() {
     Node currentNode;
     String output = "";
